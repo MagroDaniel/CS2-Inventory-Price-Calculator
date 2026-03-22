@@ -103,6 +103,16 @@ Este projeto usa a API pública da Steam Market. Não é afiliado à Valve Corpo
 
 ---
 
+## ☕ Apoie o projeto
+
+Se este projeto te ajudou, considere fazer uma doação!
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Doar-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/danielmagro)
+
+**PIX:** `daniel.magro1998@gmail.com`
+
+---
+
 ## 📝 Licença
 
 MIT License — sinta-se livre para usar, modificar e distribuir.
